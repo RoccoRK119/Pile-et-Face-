@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+/* Couleurs Mada Stones (émeraude) */
+@theme {
+  --color-emerald-primary: #10b981;
+  --color-emerald-dark:    #065f46;
+  --color-emerald-light:   #d1fae5;
+}
