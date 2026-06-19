@@ -1,7 +1,7 @@
 import { BrowserRouter, Routes, Route, Outlet } from "react-router-dom";
 import Navbar from "./components/layout/Navbar";
 import Footer from "./components/layout/Footer";
-import RHAdministration from "./pages/RHAdministration";
+import RHAdministration from "./pages/RHadministration";
 import ServicesPage from "./pages/ServicesPage";
 import ProcessusPage from "./pages/ProcessusPage";
 import ContactPage from "./pages/ContactPage";
